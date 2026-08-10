@@ -12,9 +12,6 @@
 
 **Runs locally · uses your own API keys · DeepSeek-first · Codex / Claude Code / Cursor compatible · Chrome-assisted lead verification · macOS Mail.app draft generation · human approval before every send · no spam, no black-box SaaS.**
 
-![Demo](./screenshots/demo.gif)
-*(demo GIF placeholder — see [screenshots/README.md](./screenshots/README.md) to record your own)*
-
 中文简介：**开源 Codex 自动获客 Agent：本地运行，DeepSeek 驱动，自动找客户、评分、写邮件草稿,发送前人工确认。**
 
 ---
