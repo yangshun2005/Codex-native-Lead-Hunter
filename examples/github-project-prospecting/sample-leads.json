@@ -1,0 +1,25 @@
+{
+  "hunt_id": "example-hunt-github-prospecting",
+  "leads": [
+    {
+      "id": "ld_7c6b5a4938",
+      "company": "monorepo-turbo (open-source project)",
+      "person": "@devmaintainer",
+      "role": "",
+      "email": "",
+      "website": "https://github.com/example-org/monorepo-turbo",
+      "source_url": "https://github.com/example-org/monorepo-turbo",
+      "detected_need": "matched search keyword: monorepo build tool slow CI cache",
+      "business_value": 7,
+      "urgency": 5,
+      "fit_score": 8,
+      "confidence": 7,
+      "recommended_action": "comment",
+      "risk": "no direct email found — verify contact before outreach",
+      "evidence": [
+        "https://github.com/example-org/monorepo-turbo",
+        "https://github.com/example-org/monorepo-turbo/issues/412"
+      ]
+    }
+  ]
+}

@@ -8,7 +8,7 @@ export function RootLayout() {
         <div className="container mx-auto flex h-14 items-center px-4">
           <Link to="/" className="mr-8 flex items-center gap-2 text-lg font-bold">
             <Crosshair className="h-5 w-5 text-primary" />
-            <span>AI Hunter</span>
+            <span>Lead Hunter</span>
           </Link>
           <nav className="flex items-center gap-4 text-sm">
             <Link

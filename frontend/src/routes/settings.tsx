@@ -423,7 +423,7 @@ const EMAIL_FIELDS: FieldDef[] = [
 ];
 
 const EMAIL_DELIVERY_FIELDS: FieldDef[] = [
-  { key: "email_from_name", label: "发件人名称", placeholder: "B2Binsights" },
+  { key: "email_from_name", label: "发件人名称", placeholder: "Your Company" },
   { key: "email_from_address", label: "发件邮箱", placeholder: "sales@example.com" },
   { key: "email_reply_to", label: "回复邮箱", placeholder: "sales@example.com" },
   { key: "email_smtp_host", label: "SMTP Host", placeholder: "smtp.gmail.com" },

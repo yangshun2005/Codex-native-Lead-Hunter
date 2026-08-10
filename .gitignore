@@ -64,6 +64,12 @@ backend/uploads/
 *.sqlite
 *.sqlite3
 
+# lead-hunter CLI local state (current hunt id, verification notes) and default CSV exports
+.lead_hunter/
+backend/.lead_hunter/
+backend/leads_*.csv
+backend/template_seed_cache.json
+
 # ── macOS ────────────────────────────────────────────────────
 .DS_Store
 .DS_Store?

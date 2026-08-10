@@ -1,0 +1,24 @@
+{
+  "hunt_id": "example-hunt-reddit-opportunity",
+  "leads": [
+    {
+      "id": "ld_9d8e7f6a5b",
+      "company": "r/sales thread — u/tired_sdr_throwaway",
+      "person": "u/tired_sdr_throwaway",
+      "role": "",
+      "email": "",
+      "website": "",
+      "source_url": "https://reddit.com/r/sales/comments/example/spending_10_hours_a_week_on_manual_prospecting",
+      "detected_need": "matched search keyword: manual outreach tools frustrating",
+      "business_value": 6,
+      "urgency": 7,
+      "fit_score": 7,
+      "confidence": 6,
+      "recommended_action": "comment",
+      "risk": "no direct email found — verify contact before outreach",
+      "evidence": [
+        "https://reddit.com/r/sales/comments/example/spending_10_hours_a_week_on_manual_prospecting"
+      ]
+    }
+  ]
+}

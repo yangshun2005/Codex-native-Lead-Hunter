@@ -1,0 +1,8 @@
+{
+  "lead_id": "ld_a1b2c3d4e5",
+  "to": "amara@brightsmiledental.example.com",
+  "subject": "Cutting no-shows at Bright Smile Dental Group",
+  "body": "Hi Dr. Chen,\n\nNoticed Bright Smile Dental Group has been expanding — congrats on the new location listing. A lot of growing clinics we work with hit the same wall: front-desk staff spend hours a week on reminder calls and rescheduling.\n\nWe build automated scheduling/reminder flows that plug into your existing booking system, typically cutting no-shows 20-30% within a month.\n\nWorth a quick look at how it'd fit your setup?\n\nBest,\n[Your name]",
+  "source": "generated",
+  "note": "This is a DRAFT. Nothing was sent. Review before using with mail-draft."
+}

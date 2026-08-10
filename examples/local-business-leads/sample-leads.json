@@ -1,0 +1,44 @@
+{
+  "hunt_id": "example-hunt-local-business",
+  "leads": [
+    {
+      "id": "ld_a1b2c3d4e5",
+      "company": "Bright Smile Dental Group",
+      "person": "Dr. Amara Chen",
+      "role": "",
+      "email": "amara@brightsmiledental.example.com",
+      "website": "https://brightsmiledental.example.com",
+      "source_url": "https://brightsmiledental.example.com",
+      "detected_need": "matched search keyword: dentists in California hiring front-desk automation",
+      "business_value": 8,
+      "urgency": 6,
+      "fit_score": 8,
+      "confidence": 9,
+      "recommended_action": "email",
+      "risk": "",
+      "evidence": [
+        "https://brightsmiledental.example.com",
+        "https://linkedin.com/company/bright-smile-dental-group"
+      ]
+    },
+    {
+      "id": "ld_f6a7b8c9d0",
+      "company": "Downtown Family Dentistry",
+      "person": "",
+      "role": "",
+      "email": "",
+      "website": "https://downtownfamilydentistry.example.com",
+      "source_url": "https://downtownfamilydentistry.example.com",
+      "detected_need": "matched search keyword: dentists in California",
+      "business_value": 3,
+      "urgency": 5,
+      "fit_score": 3,
+      "confidence": 4,
+      "recommended_action": "ignore",
+      "risk": "no direct email found — verify contact before outreach",
+      "evidence": [
+        "https://downtownfamilydentistry.example.com"
+      ]
+    }
+  ]
+}

@@ -10,6 +10,7 @@ _BACKEND_ROOT = Path(__file__).resolve().parent.parent
 
 
 _LLM_KEYS = {
+    "DEEPSEEK_API_KEY",
     "OPENAI_API_KEY",
     "ANTHROPIC_API_KEY",
     "OPENROUTER_API_KEY",

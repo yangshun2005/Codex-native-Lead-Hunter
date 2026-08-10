@@ -1,0 +1,8 @@
+{
+  "lead_id": "ld_7c6b5a4938",
+  "to": "(no email found — see 'risk' on this lead)",
+  "subject": "CI cache idea for monorepo-turbo",
+  "body": "Hey — saw issue #412 on monorepo-turbo about CI cache misses on large monorepos. We've been building a hosted cache layer aimed at exactly that build-graph-aware invalidation problem.\n\nNo pitch here, just curious if that's still an open pain point for the project or if you've already solved it — happy to share notes either way.",
+  "source": "generated",
+  "note": "This is a DRAFT. No email address was found for this lead, so this text is meant to be posted as a GitHub issue/discussion comment by a human — not sent automatically. Nothing in this repo posts to GitHub on your behalf."
+}
